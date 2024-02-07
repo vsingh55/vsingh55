@@ -2,15 +2,15 @@
 
 <h3 align="left">Excelling in Cloud & DevOps </h3>
 
-<h1></h1>I am Vijay Kumar Singh, Barriers do not exist in my dictionary, Discover my transition from non-IT domains to the dynamic world of technology. Explore my journey of continuous learning and agile implementation, where every line of code is a testament to my commitment. <br>
-Welcome to my GitHub profile, where curiosity meets capability, and where every project is a step forward in the pursuit of excellence. I am a DevOps & Cloud enthusiast & an open-source contribution seeker. I love to contribute, Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
+<h1></h1>Welcome to my GitHub profile, where curiosity meets capability, and where every project is a step forward in the pursuit of excellence. I am a DevOps & Cloud enthusiast & an open-source contribution seeker. I love to contribute, Always open to collaborating on projects and innovative/disruptive ideas. Barriers do not exist in my dictionary, Discover my transition from non-IT domains to the dynamic world of technology. Explore my journey of continuous learning and agile implementation, where every line of code is a testament to my commitment. <br>
 
-[![LinkedIn Badge](https://img.shields.io/badge/-@krvsc-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/krvsc/)](https://www.linkedin.com/in/krvsc/)
-[![Hashnode Badge](https://img.shields.io/badge/-@krvsc-03a57a?style=flat-square&labelColor=000000&logo=Hashnode&link=https://blog.krvsc.cloud/)](https://blog.krvsc.cloud/)
-[![Twitter Badge](https://img.shields.io/badge/-@VijayKrvsc-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/VijayKrvsc)](https://twitter.com/VijayKrvsc)
-[![Discord Badge](https://img.shields.io/badge/-Join%20Chat-5865F2?style=flat-square&logo=discord&logoColor=white&link=https://discord.com/channels/1204683007789891634/1204683008422969397)](https://discord.com/channels/1204683007789891634/1204683008422969397)
-[![Telegram Badge](https://img.shields.io/badge/-Join%20Chat-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/+l0yIB7oFeKdmZjk9)](https://t.me/+l0yIB7oFeKdmZjk9)
-[![Gmail Badge](https://img.shields.io/badge/-vscit23@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vscit23@gmail.com)](mailto:vscit23@gmail.com)
+### Let's connect 🤝
+[![LinkedIn Badge](https://img.shields.io/badge/-@krvsc-black?style=round-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/krvsc/)](https://www.linkedin.com/in/krvsc/)
+[![Hashnode Badge](https://img.shields.io/badge/-@krvsc-034efc?style=round-square&labelColor=000000&logo=Hashnode&link=https://blog.krvsc.cloud/)](https://blog.krvsc.cloud/)
+[![Twitter Badge](https://img.shields.io/badge/-@VijayKrvsc-1DA1F2?style=round-square&logo=twitter&logoColor=white&link=https://twitter.com/VijayKrvsc)](https://twitter.com/VijayKrvsc)
+[![Discord Badge](https://img.shields.io/badge/-Join%20Chat-5865F2?style=round-square&logo=discord&logoColor=white&link=https://discord.com/channels/1204683007789891634/1204683008422969397)](https://discord.com/channels/1204683007789891634/1204683008422969397)
+[![Telegram Badge](https://img.shields.io/badge/-Join%20Chat-2CA5E0?style=round-square&logo=telegram&logoColor=white&link=https://t.me/+l0yIB7oFeKdmZjk9)](https://t.me/+l0yIB7oFeKdmZjk9)
+[![Gmail Badge](https://img.shields.io/badge/-vscit23@gmail.com-c14438?style=round-square&logo=Gmail&logoColor=black&link=mailto:vscit23@gmail.com)](mailto:vscit23@gmail.com)
 
 ### Current Status✨
 + Enhancing my linux skills to be LFCS certified Linux Administrator.
@@ -23,15 +23,15 @@ Welcome to my GitHub profile, where curiosity meets capability, and where every 
 ![JSON](https://img.shields.io/badge/-JSON-black?style=flat-square&logo=JSON)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
-![Azure](https://img.shields.io/badge/-Azure-blue?style=round-square&logo=Microsoft-Azure)
-![GCP](https://img.shields.io/badge/-GCP-yellow?style=round-square&logo=Google-Cloud)
-![AWS](https://img.shields.io/badge/-AWS-orange?style=round-square&logo=Amazon-AWS)
+![Azure](https://img.shields.io/badge/-Azure-black?style=round-square&logo=Microsoft-Azure)
+![GCP](https://img.shields.io/badge/-GCP-black?style=round-square&logo=Google-Cloud)
+![AWS](https://img.shields.io/badge/-AWS-black?style=round-square&logo=Amazon-AWS)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=round-square&logo=Linux)
 ![Git](https://img.shields.io/badge/-Git-black?style=round-square&logo=Git)
-![Docker](https://img.shields.io/badge/-Docker-blue?style=round-square&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=round-square&logo=Kubernetes)
-![Ansible](https://img.shields.io/badge/-Ansible-blue?style=round-square&logo=Ansible)
-![Terraform](https://img.shields.io/badge/-Terraform-blue?style=round-square&logo=Terraform)
+![Docker](https://img.shields.io/badge/-Docker-black?style=round-square&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=round-square&logo=Kubernetes)
+![Ansible](https://img.shields.io/badge/-Ansible-black?style=round-square&logo=Ansible)
+![Terraform](https://img.shields.io/badge/-Terraform-black?style=round-square&logo=Terraform)
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=krvsc.krvsc)
