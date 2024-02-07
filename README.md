@@ -5,7 +5,7 @@
 <h1></h1>Welcome to my GitHub profile, where curiosity meets capability, and where every project is a step forward in the pursuit of excellence. I am a DevOps & Cloud enthusiast & an open-source contribution seeker. I love to contribute, Always open to collaborating on projects and innovative/disruptive ideas. Barriers do not exist in my dictionary, Discover my transition from non-IT domains to the dynamic world of technology. Explore my journey of continuous learning and agile implementation, where every line of code is a testament to my commitment. <br>
 
 ### Let's connect 🤝
-[![LinkedIn Badge](https://img.shields.io/badge/-@krvsc-black?style=round-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/krvsc/)](https://www.linkedin.com/in/krvsc/)
+[![LinkedIn Badge](https://img.shields.io/badge/-@krvsc-blue?style=round-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/krvsc/)](https://www.linkedin.com/in/krvsc/)
 [![Hashnode Badge](https://img.shields.io/badge/-@krvsc-034efc?style=round-square&labelColor=000000&logo=Hashnode&link=https://blog.krvsc.cloud/)](https://blog.krvsc.cloud/)
 [![Twitter Badge](https://img.shields.io/badge/-@VijayKrvsc-1DA1F2?style=round-square&logo=twitter&logoColor=white&link=https://twitter.com/VijayKrvsc)](https://twitter.com/VijayKrvsc)
 [![Discord Badge](https://img.shields.io/badge/-Join%20Chat-5865F2?style=round-square&logo=discord&logoColor=white&link=https://discord.com/channels/1204683007789891634/1204683008422969397)](https://discord.com/channels/1204683007789891634/1204683008422969397)
