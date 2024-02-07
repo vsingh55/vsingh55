@@ -10,7 +10,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@VijayKrvsc-1DA1F2?style=round-square&logo=twitter&logoColor=white&link=https://twitter.com/VijayKrvsc)](https://twitter.com/VijayKrvsc)
 [![Discord Badge](https://img.shields.io/badge/-Join%20Chat-5865F2?style=round-square&logo=discord&logoColor=white&link=https://discord.com/channels/1204683007789891634/1204683008422969397)](https://discord.com/channels/1204683007789891634/1204683008422969397)
 [![Telegram Badge](https://img.shields.io/badge/-Join%20Chat-2CA5E0?style=round-square&logo=telegram&logoColor=white&link=https://t.me/+l0yIB7oFeKdmZjk9)](https://t.me/+l0yIB7oFeKdmZjk9)
-[![Gmail Badge](https://img.shields.io/badge/-vscit23@gmail.com-white?style=round-square&logo=Gmail&logoColor=black&link=mailto:vscit23@gmail.com)](mailto:vscit23@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-vscit23@gmail.com-a284e8?style=round-square&logo=Gmail&logoColor=black&link=mailto:vscit23@gmail.com)](mailto:vscit23@gmail.com)
 
 ### Current Status✨
 + Enhancing my linux skills to be LFCS certified Linux Administrator.
