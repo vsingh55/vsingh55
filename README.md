@@ -1,6 +1,14 @@
 ## Hi there! 👋🏻👋🏻👋🏻  <img src="https://raw.githubusercontent.com/krvsc/krvsc/master/wave.gif" width="30">
 
-I am Vijay Kumar Singh, people call me vks, a recent computer science graduate from [The University of Texas at Dallas](https://utdallas.edu/). I am a DevOps & Cloud enthusiast & an open-source contribution seeker. I love to contribute, Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
+<h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=0FF700&center=true&vCenter=true&width=1200&height=60&lines=Hi+%F0%9F%91%8B%2C+Explore+world+of+Cloud+%26+DevOps+;With+Prasad+Suman+Mohan%2C+Let's+connect!+" alt="Typing SVG" /></a></h1>
+
+<h3 align="center">An Enthusiast Cloud DevOps Engineer from India</h3>
+
+<p align="center"> <img align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical&row=1"/></p>
+
+<p align="center"> <a href="https://twitter.com/sumanprasad007" target="blank"><img src="https://img.shields.io/twitter/follow/sumanprasad007?logo=twitter&style=for-the-badge" alt="sumanprasad007" /></a> </p>
+
+<h1></h1>I am Vijay Kumar Singh, people call me vks, a recent computer science graduate from [The University of Texas at Dallas](https://utdallas.edu/). I am a DevOps & Cloud enthusiast & an open-source contribution seeker. I love to contribute, Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
 [![Linkedin Badge](![Static Badge](https://img.shields.io/badge/Vijay%20Kumar%20SIngh?style=for-the-badge&logo=Linkedin&logoColor=hex))](https://www.linkedin.com/in/krvsc/)
 [![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/kanna6501)
