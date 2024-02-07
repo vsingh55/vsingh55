@@ -1,55 +1,39 @@
-<h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=0FF702&center=true&vCenter=true&width=1200&height=60&lines=Hi+%F0%9F%91%8B%2C+Explore+world+of+Cloud+%26+DevOps+;With+Vijay+Kumar+Singh%2C+Let's+connect!+" alt="Typing SVG" /></a></h1>
+<h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=51bacf&Left=true&vLeft=true&width=1200&height=60&lines=Hi+%F0%9F%91%8B%2C+Explore+world+of+Cloud+%26+DevOps+;With+Vijay+Kumar+Singh%2C+Let's+connect!+" alt="Typing SVG" /></a></h1>
 
-<h3 align="left">An Enthusiast Cloud DevOps Engineer from India</h3>
+<h3 align="left">Excelling in Cloud & DevOps Engineer from India</h3>
 
-<p align="center"> <img align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical&row=1"/></p>
 
 <p align="center"> <a href="https://twitter.com/sumanprasad007" target="blank"><img src="https://img.shields.io/twitter/follow/sumanprasad007?logo=twitter&style=for-the-badge" alt="sumanprasad007" /></a> </p>
 
-<h1></h1>I am Vijay Kumar Singh, people call me vks, a recent computer science graduate from [The University of Texas at Dallas](https://utdallas.edu/). I am a DevOps & Cloud enthusiast & an open-source contribution seeker. I love to contribute, Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
-
+<h1></h1>I am Vijay Kumar Singh, Barriers do not exist in my dictionary, Discover my transition from non-IT domains to the dynamic world of technology. Explore my journey of continuous learning and agile implementation, where every line of code is a testament to my commitment. <br>
+Welcome to my GitHub profile, where curiosity meets capability, and where every project is a step forward in the pursuit of excellence. I am a DevOps & Cloud enthusiast & an open-source contribution seeker. I love to contribute, Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
+[![LinkedIn Badge](https://img.shields.io/badge/-@krvsc-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/krvsc/)](https://www.linkedin.com/in/krvsc/)
 [![Hashnode Badge](https://img.shields.io/badge/-@krvsc-03a57a?style=flat-square&labelColor=000000&logo=Hashnode&link=https://blog.krvsc.cloud/)](https://blog.krvsc.cloud/)
+[![Twitter Badge](https://img.shields.io/badge/-@VijayKrvsc-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/VijayKrvsc)](https://twitter.com/VijayKrvsc)
+[![Discord Badge](https://img.shields.io/badge/-Join%20Chat-5865F2?style=flat-square&logo=discord&logoColor=white&link=https://discord.com/channels/1204683007789891634/1204683008422969397)](https://discord.com/channels/1204683007789891634/1204683008422969397)
+[![Telegram Badge](https://img.shields.io/badge/-Join%20Chat-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/+l0yIB7oFeKdmZjk9)](https://t.me/+l0yIB7oFeKdmZjk9)
 [![Gmail Badge](https://img.shields.io/badge/-vscit23@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vscit23@gmail.com)](mailto:vscit23@gmail.com)
 
 ## ⚡ Technologies
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+## Languages:
+- Bash
+- JSON
+- Python
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=aemmadi&count_private=true&show_icons=true&include_all_commits=true)
+## Technologies and Tools:
+- Azure
+- GCP
+- AWS
+- Linux
+- Git
+- Docker
+- Kubernetes
+- Ansible
+- Terraform
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=krvsc.krvsc)
 
-[![Wechat Badge](https://img.shields.io/badge/微信公众号-刘训灼-green?style=flat-square&labelColor=green&logo=Wechat&logoColor=white&link=https://mp.weixin.qq.com/s?__biz=MzU2MzMzODExOA==&mid=2247484146&idx=1&sn=99ef4a2f03ca4068e79ace5fe129d16b&chksm=fc5a8c1bcb2d050d531a6c7c8d6757a53819a3ec04f985c624bed9177e5760e26c9aa74da8bb&cur_album_id=2855959792924884992&scene=189#wechat_redirect)](https://mp.weixin.qq.com/s?__biz=MzU2MzMzODExOA==&mid=2247484146&idx=1&sn=99ef4a2f03ca4068e79ace5fe129d16b&chksm=fc5a8c1bcb2d050d531a6c7c8d6757a53819a3ec04f985c624bed9177e5760e26c9aa74da8bb&cur_album_id=2855959792924884992&scene=189#wechat_redirect)
-[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bitliu/)
-[![Zhihu Badge](https://img.shields.io/badge/-@XunzhuoTalk-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=Zhihu&logoColor=white&link=https://zhihu.com/people/liuxunzhuo/)](https://zhihu.com/people/liuxunzhuo/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mixdeers@gmail.com)](mailto:mixdeers@gmail.com)
 
 
 ### Hi there! 👋
