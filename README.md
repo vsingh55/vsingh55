@@ -12,30 +12,28 @@ Welcome to my GitHub profile, where curiosity meets capability, and where every 
 [![Telegram Badge](https://img.shields.io/badge/-Join%20Chat-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/+l0yIB7oFeKdmZjk9)](https://t.me/+l0yIB7oFeKdmZjk9)
 [![Gmail Badge](https://img.shields.io/badge/-vscit23@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vscit23@gmail.com)](mailto:vscit23@gmail.com)
 
-## ⚡ Technologies
+## ⚡ Languages
 
-## Languages:
-- Bash
-- JSON
-- Python
+![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=Bash)
+![JSON](https://img.shields.io/badge/-JSON-black?style=flat-square&logo=JSON)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
-## Technologies and Tools:
-- Azure
-- GCP
-- AWS
-- Linux
-- Git
-- Docker
-- Kubernetes
-- Ansible
-- Terraform
+## ⚡ Technologies and Tools
+![Azure](https://img.shields.io/badge/-Azure-blue?style=round-square&logo=Microsoft-Azure)
+![GCP](https://img.shields.io/badge/-GCP-yellow?style=round-square&logo=Google-Cloud)
+![AWS](https://img.shields.io/badge/-AWS-orange?style=round-square&logo=Amazon-AWS)
+![Linux](https://img.shields.io/badge/-Linux-black?style=round-square&logo=Linux)
+![Git](https://img.shields.io/badge/-Git-black?style=round-square&logo=Git)
+![Docker](https://img.shields.io/badge/-Docker-blue?style=round-square&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=round-square&logo=Kubernetes)
+![Ansible](https://img.shields.io/badge/-Ansible-blue?style=round-square&logo=Ansible)
+![Terraform](https://img.shields.io/badge/-Terraform-blue?style=round-square&logo=Terraform)
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=krvsc.krvsc)
 
 
-
 ### Hi there! 👋
-+ Getting Ready for Linux Foundation LFCS.
-+ Focusing on API Gateway, Service Mesh, Kubernetes Networking.
-+ Working on API Gateway at [Tencent Kubernetes Engine](https://www.tencentcloud.com/products/tke) Team, developing MutlCluster Kubernetes Networking.
-+ Working on Service Mesh at [Tencent Cloud Mesh](https://www.tencentcloud.com/products/tcm) Team, developing Istio based Service Mesh.
++ Enhancing my linux skills to be LFCS certified Linux Administrator.
++ Working on Azure, Terraform, Networking.
++ Working on Cloud-Resume Challenge.
