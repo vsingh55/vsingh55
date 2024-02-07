@@ -1,6 +1,6 @@
 <h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=51bacf&Left=true&vLeft=true&width=1200&height=60&lines=Hi+%F0%9F%91%8B%2C+Explore+world+of+Cloud+%26+DevOps+;With+Vijay+Kumar+Singh%2C+Let's+connect!+" alt="Typing SVG" /></a></h1>
 
-<h3 align="left">Excelling in Cloud & DevOps Engineer from India</h3>
+<h3 align="left">Excelling in Cloud & DevOps </h3>
 
 <h1></h1>I am Vijay Kumar Singh, Barriers do not exist in my dictionary, Discover my transition from non-IT domains to the dynamic world of technology. Explore my journey of continuous learning and agile implementation, where every line of code is a testament to my commitment. <br>
 Welcome to my GitHub profile, where curiosity meets capability, and where every project is a step forward in the pursuit of excellence. I am a DevOps & Cloud enthusiast & an open-source contribution seeker. I love to contribute, Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
@@ -12,13 +12,17 @@ Welcome to my GitHub profile, where curiosity meets capability, and where every 
 [![Telegram Badge](https://img.shields.io/badge/-Join%20Chat-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/+l0yIB7oFeKdmZjk9)](https://t.me/+l0yIB7oFeKdmZjk9)
 [![Gmail Badge](https://img.shields.io/badge/-vscit23@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vscit23@gmail.com)](mailto:vscit23@gmail.com)
 
-## ⚡ Languages
+### Current Status✨
++ Enhancing my linux skills to be LFCS certified Linux Administrator.
++ Working on Azure, Terraform, Networking.
++ Working on Cloud-Resume Challenge.
+  
+## Languages, Technologies and Tools ⚡ 
 
 ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=Bash)
 ![JSON](https://img.shields.io/badge/-JSON-black?style=flat-square&logo=JSON)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
-## ⚡ Technologies and Tools
 ![Azure](https://img.shields.io/badge/-Azure-blue?style=round-square&logo=Microsoft-Azure)
 ![GCP](https://img.shields.io/badge/-GCP-yellow?style=round-square&logo=Google-Cloud)
 ![AWS](https://img.shields.io/badge/-AWS-orange?style=round-square&logo=Amazon-AWS)
@@ -32,8 +36,3 @@ Welcome to my GitHub profile, where curiosity meets capability, and where every 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=krvsc.krvsc)
 
-
-### Hi there! 👋
-+ Enhancing my linux skills to be LFCS certified Linux Administrator.
-+ Working on Azure, Terraform, Networking.
-+ Working on Cloud-Resume Challenge.
