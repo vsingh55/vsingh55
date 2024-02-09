@@ -23,7 +23,7 @@
 ![JSON](https://img.shields.io/badge/-JSON-black?style=flat-square&logo=JSON)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
-![Azure](https://img.shields.io/badge/-Azure-black?style=round-square&logo=Microsoft-Azure)
+![Azure](https://img.shields.io/badge/-Azure-blue?style=round-square&logo=Microsoft-Azure)
 ![GCP](https://img.shields.io/badge/-GCP-black?style=round-square&logo=Google-Cloud)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=round-square&logo=Amazon-AWS)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=round-square&logo=Linux)
