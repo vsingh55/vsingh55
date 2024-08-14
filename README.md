@@ -34,5 +34,5 @@
 ![Terraform](https://img.shields.io/badge/-Terraform-black?style=round-square&logo=Terraform)
 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=krvsc.krvsc)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=vsingh55.vsingh55)
 
