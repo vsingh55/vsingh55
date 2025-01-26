@@ -1,7 +1,25 @@
 <h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&pause=1000&color=51bacf&Left=true&vLeft=true&width=1200&height=60&lines=Greetings+%F0%9F%8C%90+Tech+Explorers!;Bridging+Innovation+Through+Cloud+%26+DevOps;Appreciate+Your+Curiosity+%26+Connection+%E2%9C%A8" alt="Typing SVG" /></a></h1>
 
-## Bridging Dev & Ops  through Cloud-Native solutions.  
+  
 
+<div style="display: inline; justify-content: center; align-items: center; padding: 10px 20px; background: linear-gradient(90deg,rgb(75, 4, 133),rgb(106, 7, 149),rgb(17, 17, 164)); color: white; font-family: Roboto, Roboto; font-size: 24px; font-weight: bold; border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);">
+  <span style="animation: fadeIn 5s infinite, slideIn 3s infinite;">
+    Bridging <span style="color: #BA55D3;">Dev</span> & <span style="color: #FFD700;">Ops</span> through <span style="color: #FF8C00;">Cloud-Native</span> solutions
+  </span>
+</div>
+
+<style>
+  @keyframes fadeIn {
+    0%, 100% { opacity: 0; }
+    50% { opacity: 1; }
+  }
+
+  @keyframes slideIn {
+    0% { transform: translateX(-40%); }
+    50% { transform: translateX(0); }
+    100% { transform: translateX(40%); }
+  }
+</style>
 
 
 
@@ -15,20 +33,16 @@
 - **Core Competencies**: Adaptive Learning, Technical Problem Resolution, Strategic Implementation.
 
 ### Current Status✨
-+ Refining DevOps & multi-Cloud solution 
-+ Cloud Security and Compliance
-+ Serverless Computing and Microservices
++ Refining DevOps culture on multi-Cloud
++ Learning Cloud Security and Compliance
++ Hands-on Serverless Computing and Microservices
 
+### 📫 How to reach me:
+[![visit my Portfolio](https://img.shields.io/badge/visit_my_Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://vijaysingh.cloud)   [![Let's connect on LinkedIn](https://img.shields.io/badge/Let's_connect_🤝-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vsingh55/) [![Hashnode Blog](https://img.shields.io/badge/-Visit_my_Blogs-034efc?style=for-the-badge&logo=hashnode&logoColor=white)](https://blogs.vijaysingh.cloud/) [![Twitter](https://img.shields.io/badge/-@Follow_me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/vsingh_55) 
+[![Discord](https://img.shields.io/badge/-Discord%20Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/1204683007789891634/1204683008422969397)
+[![Telegram](https://img.shields.io/badge/-Join%20Chat-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+l0yIB7oFeKdmZjk9)
+[![Gmail](https://img.shields.io/badge/-shoot_me_mail-a284e8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vscit23@gmail.com)
 
-### Let's connect 🤝
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://vijaysingh.cloud) 
-[![LinkedIn Badge](https://img.shields.io/badge/-vsingh-blue?style=round-square&logo=linkedin&logoColor=black&link=https://www.linkedin.com/in/vsingh55/)](https://www.linkedin.com/in/vsingh55/)
-[![Hashnode Badge](https://img.shields.io/badge/-@vsingh-034efc?style=round-square&labelColor=000000&logo=Hashnode&link=https://blogs.vijaysingh.cloud/)](https://blogs.vijaysingh.cloud/)
-[![Twitter Badge](https://img.shields.io/badge/-@vsingh_55-1DA1F2?style=round-square&logo=twitter&logoColor=black&link=https://x.com/vsingh_55)](https://x.com/vsingh_55)
-
-[![Discord Badge](https://img.shields.io/badge/-Join%20Chat-5865F2?style=round-square&logo=discord&logoColor=black&link=https://discord.com/channels/1204683007789891634/1204683008422969397)](https://discord.com/channels/1204683007789891634/1204683008422969397)
-[![Telegram Badge](https://img.shields.io/badge/-Join%20Chat-2CA5E0?style=round-square&logo=telegram&logoColor=black&link=https://t.me/+l0yIB7oFeKdmZjk9)](https://t.me/+l0yIB7oFeKdmZjk9)
-[![Gmail Badge](https://img.shields.io/badge/-vscit23@gmail.com-a284e8?style=round-square&logo=Gmail&logoColor=black&link=mailto:vscit23@gmail.com)](mailto:vscit23@gmail.com)
 
 
   
