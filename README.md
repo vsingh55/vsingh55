@@ -1,18 +1,11 @@
 <h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&pause=1000&color=51bacf&Left=true&vLeft=true&width=1200&height=60&lines=Greetings+%F0%9F%8C%90+Tech+Explorers!;Bridging+Innovation+Through+Cloud+%26+DevOps;Appreciate+Your+Curiosity+%26+Connection+%E2%9C%A8" alt="Typing SVG" /></a></h1>
 
-# Bridging Dev & Ops through Cloud-Native solutions
+![Bridging](https://img.shields.io/badge/Bridging-552586?style=for-the-badge&logo=dev-to&logoColor=white)![Dev](https://img.shields.io/badge/Dev-CC338C?style=for-the-badge&logo=dev-to&logoColor=white)![&](https://img.shields.io/badge/&-FFD700?style=for-the-badge&logo=dev-to&logoColor=white)![Ops](https://img.shields.io/badge/Ops-FF8C00?style=for-the-badge&logo=dev-to&logoColor=white)![using](https://img.shields.io/badge/using-1DA1F2?style=for-the-badge&logo=dev-to&logoColor=white)![Cloud-Native solutions](https://img.shields.io/badge/Cloud--Native_solutions-8A2BE2?style=for-the-badge&logo=dev-to&logoColor=white)
 
-<div style="display: inline-flex; justify-content: center; align-items: center; padding: 10px 20px; background: linear-gradient(90deg,rgb(75, 4, 133),rgb(106, 7, 149),rgb(17, 17, 164)); color: white; font-family: Roboto, sans-serif; font-size: 24px; font-weight: bold; border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);">
-  <span>
-    Bridging <span style="color: #BA55D3;">Dev</span> & <span style="color: #FFD700;">Ops</span> through <span style="color: #FF8C00;">Cloud-Native</span> solutions
-  </span>
-</div>
+<!-- 
+![DevOps Badge](https://img.shields.io/badge/Bridging_DevOps-Cloud--Native-1DA1F2?style=for-the-badge&logo=dev-to&logoColor=white) -->
 
-# Bridging Dev & Ops through Cloud-Native solutions
-
-![DevOps Badge](https://img.shields.io/badge/Bridging_DevOps-Cloud--Native-1DA1F2?style=for-the-badge&logo=dev-to&logoColor=white)
-
-
+<!-- 
 <div style="display: inline; justify-content: center; align-items: center; padding: 10px 20px; background: linear-gradient(90deg,rgb(75, 4, 133),rgb(106, 7, 149),rgb(17, 17, 164)); color: white; font-family: Roboto, Roboto; font-size: 24px; font-weight: bold; border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);">
   <span style="animation: fadeIn 5s infinite, slideIn 3s infinite;">
     Bridging <span style="color: #BA55D3;">Dev</span> & <span style="color: #FFD700;">Ops</span> through <span style="color: #FF8C00;">Cloud-Native</span> solutions
@@ -30,7 +23,7 @@
     50% { transform: translateX(0); }
     100% { transform: translateX(40%); }
   }
-</style>
+</style> -->
 
 
 ## About me
