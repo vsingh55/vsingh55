@@ -34,6 +34,7 @@
 - I approach each project with curiosity and a methodical mindset, aiming to transform complex technical challenges into practical, scalable solutions.
 - Open to **collaboration** and innovative projects, dedicated to bridging theory with practice while continuousl expanding technical skills through purposeful exploration.
 - **Core Competencies**: Adaptive Learning, Technical Problem Resolution, Strategic Implementation.
+- ⚡ Fun fact:  I thrive on mindful practices like meditation, connecting deeply with others through meaningful conversations, and cherishing the pure, unconditional companionship of dogs and children.
 
 ### Current Status✨
 + Refining DevOps culture on multi-Cloud
