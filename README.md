@@ -43,9 +43,9 @@
 
 ### 📫 How to reach me:
 [![visit my Portfolio](https://img.shields.io/badge/visit_my_Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://vijaysingh.cloud)   [![Let's connect on LinkedIn](https://img.shields.io/badge/Let's_connect_🤝-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vsingh55/) [![Hashnode Blog](https://img.shields.io/badge/-Visit_my_Blogs-034efc?style=for-the-badge&logo=hashnode&logoColor=white)](https://blogs.vijaysingh.cloud/) [![Twitter](https://img.shields.io/badge/-@Follow_me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/vsingh_55) 
-[![Discord](https://img.shields.io/badge/-Discord%20Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/1204683007789891634/1204683008422969397)
-[![Telegram](https://img.shields.io/badge/-Join%20Chat-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+l0yIB7oFeKdmZjk9)
-[![Gmail](https://img.shields.io/badge/-shoot_me_mail-a284e8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vscit23@gmail.com)
+[![Gmail](https://img.shields.io/badge/-mail_me_-a284e8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vscit23@gmail.com)
+<!-- [![Discord](https://img.shields.io/badge/-Discord%20Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/1204683007789891634/1204683008422969397) -->
+<!-- [![Telegram](https://img.shields.io/badge/-Join%20Chat-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+l0yIB7oFeKdmZjk9) -->
 
 
 
@@ -92,9 +92,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
-  <img src="assests/sonarqube.svg" height="40" alt="sonarqube logo"  />
+  <img src="assests/SonarQube.svg" height="40" alt="sonarqube logo"  />
   <img width="12" />
-  <img src="assests/logo.png" height="40" alt="trivy logo"  />
+  <img src="assests/trivy_logo_only.png" height="40" alt="trivy logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40" alt="argocd logo"  />
   <img width="12" />
@@ -104,16 +104,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" alt="bitbucket logo"  /> -->
   <!-- <img width="12" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="assests/logo_icon_170552.png" height="40" alt="obsidian logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
+  
 
 
 </div>
