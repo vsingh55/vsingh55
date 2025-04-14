@@ -42,7 +42,9 @@
 + Hands-on Serverless Computing and Microservices
 
 ### 📫 How to reach me:
-[![visit my Portfolio](https://img.shields.io/badge/visit_my_Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://vijaysingh.cloud)   [![Let's connect on LinkedIn](https://img.shields.io/badge/Let's_connect_🤝-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vsingh55/) [![Hashnode Blog](https://img.shields.io/badge/-Visit_my_Blogs-034efc?style=for-the-badge&logo=hashnode&logoColor=white)](https://blogs.vijaysingh.cloud/) [![Twitter](https://img.shields.io/badge/-@Follow_me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/vsingh_55) 
+[![visit my Portfolio](https://img.shields.io/badge/visit_my_Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://vijaysingh.cloud) [![visit my Github Showcase](https://img.shields.io/badge/visit_my_Portfolio-%23000000.svg?style=for-the-badge&logo=github&logoColor=#FF7139)]([https://vijaysingh.cloud](https://vsingh55.github.io/myGH-showcase/)) 
+[![Let's connect on LinkedIn](https://img.shields.io/badge/Let's_connect_🤝-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vsingh55/) 
+[![Hashnode Blog](https://img.shields.io/badge/-Visit_my_Blogs-034efc?style=for-the-badge&logo=hashnode&logoColor=white)](https://blogs.vijaysingh.cloud/) [![Twitter](https://img.shields.io/badge/-@Follow_me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/vsingh_55) 
 [![Gmail](https://img.shields.io/badge/-mail_me_-a284e8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vscit23@gmail.com)
 <!-- [![Discord](https://img.shields.io/badge/-Discord%20Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/1204683007789891634/1204683008422969397) -->
 <!-- [![Telegram](https://img.shields.io/badge/-Join%20Chat-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+l0yIB7oFeKdmZjk9) -->
