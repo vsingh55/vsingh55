@@ -1,45 +1,25 @@
-<h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&pause=1000&color=51bacf&Left=true&vLeft=true&width=1200&height=60&lines=Greetings+%F0%9F%8C%90+Tech+Explorers!;Bridging+Innovation+Through+Cloud+%26+DevOps;Appreciate+Your+Curiosity+%26+Connection+%E2%9C%A8" alt="Typing SVG" /></a></h1>
+<h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&pause=1000&color=47207A&Left=true&vLeft=true&width=1200&height=60&lines=Greetings+%F0%9F%8C%90+Tech+Explorers;Appreciate+Your+Curiosity+%26+Connection+%E2%9C%A8" alt="Typing SVG" /></a></h1>
 
-![Bridging](https://img.shields.io/badge/Bridging-552586?style=for-the-badge&logo=dev-to&logoColor=white)![Dev](https://img.shields.io/badge/Dev-CC338C?style=for-the-badge&logo=dev-to&logoColor=white)![&](https://img.shields.io/badge/&-FFD700?style=for-the-badge&logo=dev-to&logoColor=white)![Ops](https://img.shields.io/badge/Ops-FF8C00?style=for-the-badge&logo=dev-to&logoColor=white)![using](https://img.shields.io/badge/using-1DA1F2?style=for-the-badge&logo=dev-to&logoColor=white)![Cloud-Native solutions](https://img.shields.io/badge/Cloud--Native_solutions-8A2BE2?style=for-the-badge&logo=dev-to&logoColor=white)
+![Building](https://img.shields.io/badge/Building-2C1242?style=for-the-badge&logo=dev-to&logoColor=white)![Scalable](https://img.shields.io/badge/Scalable-3A175D?style=for-the-badge&logo=dev-to&logoColor=white)![AI](https://img.shields.io/badge/AI-47207A?style=for-the-badge&logo=dev-to&logoColor=white)![enabled](https://img.shields.io/badge/enabled-552586?style=for-the-badge&logo=dev-to&logoColor=white)![Solutions](https://img.shields.io/badge/Solutions-6B3A99?style=for-the-badge&logo=dev-to&logoColor=white)![Through](https://img.shields.io/badge/Through-7F50AC?style=for-the-badge&logo=dev-to&logoColor=white)![Cloud](https://img.shields.io/badge/Cloud-9B75C2?style=for-the-badge&logo=dev-to&logoColor=white)![&](https://img.shields.io/badge/&-B49BD7?style=for-the-badge&logo=dev-to&logoColor=white)![DevOps](https://img.shields.io/badge/DevOps-D2BFF0?style=for-the-badge&logo=dev-to&logoColor=white)
 
-<!-- 
-![DevOps Badge](https://img.shields.io/badge/Bridging_DevOps-Cloud--Native-1DA1F2?style=for-the-badge&logo=dev-to&logoColor=white) -->
-
-<!-- 
-<div style="display: inline; justify-content: center; align-items: center; padding: 10px 20px; background: linear-gradient(90deg,rgb(75, 4, 133),rgb(106, 7, 149),rgb(17, 17, 164)); color: white; font-family: Roboto, Roboto; font-size: 24px; font-weight: bold; border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);">
-  <span style="animation: fadeIn 5s infinite, slideIn 3s infinite;">
-    Bridging <span style="color: #BA55D3;">Dev</span> & <span style="color: #FFD700;">Ops</span> through <span style="color: #FF8C00;">Cloud-Native</span> solutions
-  </span>
-</div>
-
-<style>
-  @keyframes fadeIn {
-    0%, 100% { opacity: 0; }
-    50% { opacity: 1; }
-  }
-
-  @keyframes slideIn {
-    0% { transform: translateX(-40%); }
-    50% { transform: translateX(0); }
-    100% { transform: translateX(40%); }
-  }
-</style> -->
 
 
 ## About me
 
 - Hi I am Vijay, from **India 🇮🇳** 
-- With a strategic transition from Electrical Engineering to the dynamic realm of Information Technology, I am a passionate technology professional committed to continuous learning and innovative problem-solving. 
-- My journey represents a deliberate and calculated pivot, leveraging my foundational engineering expertise to navigate the complex landscape of modern IT solutions.
-- I approach each project with curiosity and a methodical mindset, aiming to transform complex technical challenges into practical, scalable solutions.
-- Open to **collaboration** and innovative projects, dedicated to bridging theory with practice while continuousl expanding technical skills through purposeful exploration.
+- I am a passionate technology professional committed to continuous learning and innovative problem-solving. 
+- Certified Google Cloud (Associate Cloud Engineer), Azure (DP-900, AI-900, AI-102)
+- DevOps & Automation: CI/CD, Infrastructure as Code, Container Orchestration,Kubernetes, Docker, Terraform
+- Monitoring & Security: Prometheus, Grafana, Security Best Practices
+- Open to **collaboration** 
 - **Core Competencies**: Adaptive Learning, Technical Problem Resolution, Strategic Implementation.
+
 - ⚡ Fun fact:  I thrive on mindful practices like meditation, connecting deeply with others through meaningful conversations, and cherishing the pure, unconditional companionship of dogs and children.
 
 ### Current Status✨
-+ Refining DevOps culture on multi-Cloud
-+ Learning Cloud Security and Compliance
-+ Hands-on Serverless Computing and Microservices
+- Working on Building AI solutions
++ GCP (Professional Cloud Architect): In Progress
+- Kubernetes (CKA): In Progress
 
 ### 📫 How to reach me:
 [![visit my Portfolio](https://img.shields.io/badge/visit_my_Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://vijaysingh.cloud) [![visit my Github Showcase](https://img.shields.io/badge/visit_my_Github_Showcase-%23000000.svg?style=for-the-badge&logo=github&logoColor=#FF7139)](https://vsingh55.github.io/myGH-showcase/)
