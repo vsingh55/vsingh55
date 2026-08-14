@@ -7,14 +7,14 @@ I am a self-directed Cloud & DevOps Engineer specializing in **Kubernetes**, **T
 
 ⚡ Fun fact:  I thrive on mindful practices like meditation, connecting deeply with others through meaningful conversations, and cherishing the pure, unconditional companionship of dogs and children.
 
-## 📜 Verified Certifications
+### Verified Certifications
 - ☸️ **Certified Kubernetes Administrator (CKA)** – Linux Foundation ([Verify Badge](https://www.credly.com/badges/a2451672-49eb-4606-999a-3467e43a8893))
 - ☁️ **Google Cloud Associate Cloud Engineer (ACE)** – Google Cloud ([Verify Badge](https://www.credly.com/badges/c90b0dd3-570f-4940-8d55-5554728d5c7d))
 - 🤖 **Azure AI Engineer Associate (AI-102)** – Microsoft ([Verify Credentials](https://learn.microsoft.com/api/credentials/share/en-us/VijayKumarSingh/D8F649558C799443?sharingId=4DA1D4026046B55E))
-- 📊 **Azure Data Fundamentals (DP-900)** & **Azure AI Fundamentals (AI-900)** – Microsoft
+- 📊 **Azure Data Fundamentals (DP-900)** & **Azure AI Fundamentals (AI-900)** – Microsoft ([Verify Credentials](https://learn.microsoft.com/en-us/users/vijaykumarsingh/credentials/181ae410af64b900?ref=https%3A%2F%2Fwww.credly.com%2F))
 - 🐙 **GitHub Foundations** – GitHub ([Verify Badge](https://www.credly.com/badges/170752e7-9665-4529-b055-0911078b0e92))
 
-## 🌟 Tier-1 Open Source Contributions
+### Tier-1 Open Source Contributions
 I contribute to production-grade cloud-native projects and open-source tools:
 - 🔹 **[Google Cloud Foundation Fabric (PR #3881)](https://github.com/GoogleCloudPlatform/cloud-foundation-fabric/pull/3881):** Refactored Cloud Functions v2 HCL module schemas, added `terraform plan` validation rules for runtime update policies, and updated auto-generated documentation.
 - 🔹 **[Bank of Anthos (PR #2423)](https://github.com/GoogleCloudPlatform/bank-of-anthos/pull/2423):** Solved cross-project Workload Identity microservices telemetry export silent failures, refactored Java/Spring Boot resolvers, authored JUnit 5 tests, and integrated Google Jib container delivery on GKE.
