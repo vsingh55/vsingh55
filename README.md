@@ -2,7 +2,7 @@
 
 ![Building](https://img.shields.io/badge/Building-2C1242?style=for-the-badge&logo=dev-to&logoColor=white)![Scalable](https://img.shields.io/badge/Scalable-3A175D?style=for-the-badge&logo=dev-to&logoColor=white)![AI](https://img.shields.io/badge/AI-47207A?style=for-the-badge&logo=dev-to&logoColor=white)![enabled](https://img.shields.io/badge/enabled-552586?style=for-the-badge&logo=dev-to&logoColor=white)![Solutions](https://img.shields.io/badge/Solutions-6B3A99?style=for-the-badge&logo=dev-to&logoColor=white)![Through](https://img.shields.io/badge/Through-7F50AC?style=for-the-badge&logo=dev-to&logoColor=white)![Cloud](https://img.shields.io/badge/Cloud-9B75C2?style=for-the-badge&logo=dev-to&logoColor=white)![&](https://img.shields.io/badge/&-B49BD7?style=for-the-badge&logo=dev-to&logoColor=white)![DevOps](https://img.shields.io/badge/DevOps-D2BFF0?style=for-the-badge&logo=dev-to&logoColor=white)
 
-### Cloud & DevOps Engineer | GCP ACE & CKA Certified
+## Cloud & DevOps Engineer | GCP ACE & CKA Certified
 I am a self-directed Cloud & DevOps Engineer specializing in **Kubernetes**, **Terraform Infrastructure as Code**, **Google Cloud Platform**, **Azure**, **GitOps automation**, and **Open Source Contributor**.
 
 ⚡ Fun fact:  I thrive on mindful practices like meditation, connecting deeply with others through meaningful conversations, and cherishing the pure, unconditional companionship of dogs and children.
@@ -16,9 +16,12 @@ I am a self-directed Cloud & DevOps Engineer specializing in **Kubernetes**, **T
 
 ### Tier-1 Open Source Contributions
 I contribute to production-grade cloud-native projects and open-source tools:
-- 🔹 **[Google Cloud Foundation Fabric (PR #3881)](https://github.com/GoogleCloudPlatform/cloud-foundation-fabric/pull/3881):** Refactored Cloud Functions v2 HCL module schemas, added `terraform plan` validation rules for runtime update policies, and updated auto-generated documentation.
-- 🔹 **[Bank of Anthos (PR #2423)](https://github.com/GoogleCloudPlatform/bank-of-anthos/pull/2423):** Solved cross-project Workload Identity microservices telemetry export silent failures, refactored Java/Spring Boot resolvers, authored JUnit 5 tests, and integrated Google Jib container delivery on GKE.
-- 🔹 **[Microsoft AI Services Labs (PR #68)](https://github.com/MicrosoftLearning/mslearn-ai-services/pull/68):** Automated Azure Container Instances (ACI) deployment via Azure CLI & established `/status` endpoint health check observability.
+
+🔹 **[Google Cloud Foundation Fabric (PR #3881)](https://github.com/GoogleCloudPlatform/cloud-foundation-fabric/pull/3881):** Refactored Cloud Functions v2 HCL module schemas, added `terraform plan` validation rules for runtime update policies, and updated auto-generated documentation.
+
+🔹 **[Bank of Anthos (PR #2423)](https://github.com/GoogleCloudPlatform/bank-of-anthos/pull/2423):** Solved cross-project Workload Identity microservices telemetry export silent failures, refactored Java/Spring Boot resolvers, authored JUnit 5 tests, and integrated Google Jib container delivery on GKE.
+
+🔹 **[Microsoft AI Services Labs (PR #68)](https://github.com/MicrosoftLearning/mslearn-ai-services/pull/68):** Automated Azure Container Instances (ACI) deployment via Azure CLI & established `/status` endpoint health check observability.
 
 
 ### 📫 How to reach me:
